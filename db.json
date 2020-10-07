@@ -1,0 +1,39 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Post One",
+            "body": "Body for the first Post",
+            "publishedAt": "06-10-2020"
+        },
+        {
+            "id": "2",
+            "title": "Post Two",
+            "body": "Body for the second Post",
+            "publishedAt": "07-10-2020"
+        },
+        {
+            "id": "3",
+            "title": "Post Three",
+            "body": "Body for the third Post",
+            "publishedAt": "08-10-2020"
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "name": "Arty Marty",
+            "email": "artymarty@mailinator.com"
+        },
+        {
+            "id": "2",
+            "name": "John Doe",
+            "email": "johndoe@mailinator.com"
+        },
+        {
+            "id": "1",
+            "name": "Peter Maconen",
+            "email": "peter@mailinator.com"
+        }
+    ]
+}
