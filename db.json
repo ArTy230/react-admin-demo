@@ -21,19 +21,19 @@
   ],
   "users": [
     {
-      "id": "1",
-      "name": "Arty Marty",
-      "email": "artymarty@mailinator.com"
-    },
-    {
       "id": "2",
       "name": "John Doe",
       "email": "johndoe@mailinator.com"
     },
     {
       "id": "1",
-      "name": "Peter Maconen",
-      "email": "peter@mailinator.com"
+      "name": "Jane Doe",
+      "email": "janedoe@mailinator.com"
+    },
+    {
+      "id": "3",
+      "name": "May Doe",
+      "email": "maydoe@mailinator.com"
     }
   ]
 }
