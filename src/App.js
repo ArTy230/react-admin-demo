@@ -14,11 +14,14 @@ import './App.css';
 
 
 function App() {
+// modified by DJ 
   return (
     <Admin
       dataProvider={restProvider('http://localhost:3000')}
       authProvider={authProvider}
     >
+
+
       {(permissions) => [
         <Resource
           key='1'
@@ -27,6 +30,7 @@ function App() {
           create={PostCreate}
           edit={permissions === 'moderator' ? PostEdit : 'null'}
         />,
+
         <Resource
           key='2'
           name='users'
